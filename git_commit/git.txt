@@ -1,0 +1,5 @@
+git status
+git add .
+git commit -m "Day 4 - loops practice"
+git pull origin main --rebase
+git push origin main
